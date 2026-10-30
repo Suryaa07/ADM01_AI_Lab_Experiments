@@ -16,6 +16,18 @@ Python implementations of Artificial Intelligence algorithms, organized by unit.
 - Experiment 7: Minimax Algorithm
 - Experiment 8: Alpha-Beta Pruning
 
+## Unit III (Lab 3)
+- Experiment 9: Forward Chaining
+- Experiment 10: Resolution Refutation
+- Experiment 11: Family Tree
+- Experiment 12: Pattern Matching
+  
+## Unit IV (Lab 4)
+- Experiment 13: Artificial Neural Network using Backpropagation
+- Experiment 14 : Handwritten Digit Recognition
+- Experiment 15 : Perceptron for Breast Cancer Classification
+- Experiment 16 : Naïve Bayes Classification for Wine Classification
+
 ## Usage
 1. Open the required `.ipynb` file in Google Colab.
 2. Run the cells sequentially to view the execution and output.
