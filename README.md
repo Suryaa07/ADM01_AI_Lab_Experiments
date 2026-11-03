@@ -28,6 +28,12 @@ Python implementations of Artificial Intelligence algorithms, organized by unit.
 - Experiment 15 : Perceptron for Breast Cancer Classification
 - Experiment 16 : Naïve Bayes Classification for Wine Classification
 
+## Unit V (Lab 5)
+- Experiment 17: ID3 Decision Tree for Loan Approval Classification
+- Experiment 18: Monkey and Banana Problem using State-Space Planning
+- Experiment 19: Towers of Hanoi using Recursion
+- Experiment 20: Simple Reflex Agent for Vacuum World
+
 ## Usage
 1. Open the required `.ipynb` file in Google Colab.
 2. Run the cells sequentially to view the execution and output.
